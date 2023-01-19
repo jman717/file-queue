@@ -2,7 +2,7 @@
   "author": {
     "name": "Jim Manton"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bundleDependencies": false,
   "dependencies": {
     "chai": "^4.3.7",
@@ -34,10 +34,10 @@
     "url": "git+https://github.com/jman717/file-queue.git"
   },
   "deprecated": false,
-  "description": "Queue Objects For Processing",
+  "description": "Queue File Objects",
   "email": "jrman@risebroadband.net",
   "license": "MIT",
   "main": "app.js",
-  "name": "queueobj",
+  "name": "file-queue",
   "start": "node app.js"
 }
